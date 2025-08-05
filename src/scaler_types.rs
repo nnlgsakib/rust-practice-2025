@@ -1,4 +1,3 @@
-use crate::print::print_func;
 
 pub fn scaler_types() {
     // scaler types returns a single type  value like bool:"true or false"
